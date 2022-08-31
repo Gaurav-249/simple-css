@@ -6,6 +6,7 @@ h1{
 	text-transform: uppercase;
 	font-weight: bolder;
 	font-style: italic;
+	background: purple; 
 }
 .footer{
 	background: magenta;
